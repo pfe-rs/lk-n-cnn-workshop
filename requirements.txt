@@ -1,0 +1,11 @@
+numpy
+torch==2.0.1+cu117
+torchaudio==2.0.2+cu117
+torchvision==0.15.2+cu117
+opencv-python
+tqdm
+matplotlib
+scikit-learn
+cuda-python==12.2.0
+pandas
+pillow
